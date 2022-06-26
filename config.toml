@@ -1,9 +1,9 @@
-baseURL = "https://baty.net/"
+baseURL = "https://xavier-96.github.io"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "Jack Baty's Weblog"
+title = "Xavier's Weblog"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "codeit"
@@ -56,7 +56,7 @@ publishDir = "docs"
   #  LoveIt theme version
   version = "0.2.X"
   # site description
-  description = "Jack Baty"
+  description = "Xavier"
   # site keywords
   keywords = ["Notes", "Tech"]
   # site default theme ("light", "dark", "auto")
@@ -75,7 +75,7 @@ publishDir = "docs"
   #  App icon config
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
-    title = "Jack Baty'"
+    title = "Xavier'"
     # whether to omit favicon resource links
     noFavicon = false
     # modern SVG favicon to use in place of older style .png and .ico files
@@ -119,9 +119,9 @@ publishDir = "docs"
     [params.header.title]
       # URL of the LOGO
       logo = ""
-      #logo = "https://static.baty.net/images/avatars/logo.png"
+      #logo = "https://static.net/images/avatars/logo.png"
       # title name
-      name = "Jack Baty"
+      name = "Xavier"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -175,11 +175,11 @@ publishDir = "docs"
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/images/avatar.png"
+      avatarURL = "images/avatar.png"
       #  title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page
-      subtitle = "Jack Baty - Director of Unspecified Services"
+      subtitle = "Xavier - Director of Unspecified Services"
       # whether to use typeit animation for subtitle
       typeit = false
       # whether to show social links
@@ -197,10 +197,10 @@ publishDir = "docs"
 
   # Social config about the author
   [params.social]
-    GitHub = "jackbaty"
+    GitHub = "Xavier-96"
     Linkedin = ""
-    Twitter = "jackbaty"
-    Instagram = "jackbatyphoto"
+    Twitter = ""
+    Instagram = ""
     Facebook = ""
     Telegram = ""
     Medium = ""
@@ -220,7 +220,7 @@ publishDir = "docs"
     Weibo = ""
     Odnoklassniki = ""
     VK = ""
-    Flickr = "jbaty"
+    Flickr = ""
     Xing = ""
     Snapchat = ""
     Soundcloud = ""
@@ -259,8 +259,8 @@ publishDir = "docs"
     XMPP = ""
     Matrix = ""
     Bilibili = ""
-    Email = "jack@baty.net"
-    RSS = true #
+    Email = ""
+    RSS = false #
 
   #  Page config
   [params.page]
@@ -474,7 +474,7 @@ publishDir = "docs"
     enable = true
 
     [params.analytics.plausible]
-      domain = "baty.net"
+      domain = "xavier.net"
     # Google Analytics
     [params.analytics.google]
       id = ""
@@ -542,9 +542,9 @@ publishDir = "docs"
 
 # Author config
 [author]
-  name = "Jack Baty"
-  email = "jack@baty.net"
-  link = "https://baty.net"
+  name = "Xavier"
+  email = ""
+  #link = ""
 
 # Sitemap config
 [sitemap]

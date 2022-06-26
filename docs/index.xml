@@ -1,10 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
     <channel>
-        <title>Jack Baty&#39;s Weblog</title>
-        <link>https://baty.net/</link>
-        <description>Jack Baty</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>jack@baty.net (Jack Baty)</managingEditor>
-            <webMaster>jack@baty.net (Jack Baty)</webMaster>
-            <atom:link href="https://baty.net/index.xml" rel="self" type="application/rss+xml" />
+        <title>Xavier&#39;s Weblog</title>
+        <link>https://xavier-96.github.io/</link>
+        <description>Xavier</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language>
+            <atom:link href="https://xavier-96.github.io/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>

@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://baty.net/about/</loc><lastmod>2017-08-28T21:41:52&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://baty.net/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://baty.net/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://baty.net/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://xavier-96.github.io/about/</loc><lastmod>2017-08-28T21:41:52&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://xavier-96.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://xavier-96.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://xavier-96.github.io/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
