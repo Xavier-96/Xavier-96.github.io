@@ -1,8 +1,8 @@
 baseURL = "https://xavier-96.github.io"
 # [en, zh-cn, fr, ...] determines default content language
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh-cn"
 # language code
-languageCode = "en"
+languageCode = "zh-cn"
 title = "Xavier's Weblog"
 
 # Change the default theme to be use when building the site with Hugo

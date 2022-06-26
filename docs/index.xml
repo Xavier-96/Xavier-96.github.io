@@ -3,7 +3,7 @@
         <title>Xavier&#39;s Weblog</title>
         <link>https://xavier-96.github.io/</link>
         <description>Xavier</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language>
             <atom:link href="https://xavier-96.github.io/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>
