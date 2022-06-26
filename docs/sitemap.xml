@@ -2,6 +2,10 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://xavier-96.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://xavier-96.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://xavier-96.github.io/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://xavier-96.github.io/categories/blockchain/</loc><lastmod>2022-06-26T18:56:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://xavier-96.github.io/categories/</loc><lastmod>2022-06-26T18:56:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://xavier-96.github.io/tags/cryptocurrency/</loc><lastmod>2022-06-26T18:56:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://xavier-96.github.io/posts/</loc><lastmod>2022-06-26T18:56:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://xavier-96.github.io/tags/</loc><lastmod>2022-06-26T18:56:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://xavier-96.github.io/</loc><lastmod>2022-06-26T18:56:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://xavier-96.github.io/2022/%E5%B8%82%E5%80%BC%E5%89%8D%E7%99%BE%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D/</loc><lastmod>2022-06-26T18:56:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
